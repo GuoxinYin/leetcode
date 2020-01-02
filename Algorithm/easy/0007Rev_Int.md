@@ -37,3 +37,6 @@ public:
     }
 };
 ```
+Some Ideas
+---
+It is really important to pay attention to the note there. If an overflow occurs, we must return 0. 
