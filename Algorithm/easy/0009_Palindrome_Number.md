@@ -35,6 +35,7 @@ public:
 ```
 
 Some Ideas
+---
 1. In my first attemp, the type of *num* is `int`, which will cause overflow since the largest number using `int` is 2147483647. When we reverse this number, it becomes 7463847412, which is larger than the `INT_MAX`.
 2. After viewing the solution given by LeetCode, the solution can be simplified by only reverse half of the input number and then compare it with the remaining half. Also, the solution checks with the input number is a multiple of ten in the beginning, which will lead to false as the example #3 says. The solution is also great since it also saves the space to store the original input number. It should be notice that if the input number has odd digits, we should remove the middle one, just mod the *num* by ten. Revising my cpp code, it becomes
 
