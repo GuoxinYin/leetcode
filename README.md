@@ -13,3 +13,6 @@ This repository contains my solution to the leetcode problems form easy to hard.
 | 20 |Valid Parentheses |[0020_Valid_Parentheses.md](https://github.com/GuoxinYin/leetcode/blob/master/Algorithm/easy/0020_Valid_Parentheses.md)|String, Stack|
 | 21 |Merge Two Sorted Lists |[0021_Merge_Two_Sorted_Lists.md](https://github.com/GuoxinYin/leetcode/blob/master/Algorithm/easy/0021_Merge_Two_Sorted_Lists.md)|Linked List|
 | 26 |Remove Duplicates From Sorted Array |[0026_Remove_Duplicates_From_Sorted_Array.md](https://github.com/GuoxinYin/leetcode/blob/master/Algorithm/easy/0026_Remove_Duplicates_From_Sorted_Array.md)|Array, Two pointers|
+| 27 |Remove Element |[0027_Remove_Element.md](https://github.com/GuoxinYin/leetcode/blob/master/Algorithm/easy/0027_Remove_Element.md)|Array, Two pointers|
+| 28 |Implement strStr() |[0028_Implement_strStr().md](https://github.com/GuoxinYin/leetcode/blob/master/Algorithm/easy/0028_Implement_strStr().md)|String, Two pointers|
+| 35 |Search Insert Position |[0035_Search_Insert_Position.md](https://github.com/GuoxinYin/leetcode/blob/master/Algorithm/easy/0035_Search_Insert_Position.md)|Array, Binary Search|
