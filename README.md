@@ -22,3 +22,6 @@ This repository contains my solution to the leetcode problems form easy to hard.
 | 66 |Plus One|[0066_Plus_One.md](https://github.com/GuoxinYin/leetcode/blob/master/Algorithm/easy/0066_Plus_One.md)|Array|
 | 67 |Add Binary|[0067_Add_Binary.md](https://github.com/GuoxinYin/leetcode/blob/master/Algorithm/easy/0067_Add_Binary.md)|Math, String|
 | 69 |Sqrt(x)|[0069_Sqrt(x).md](https://github.com/GuoxinYin/leetcode/blob/master/Algorithm/easy/0069_Sqrt(x).md)|Math, Binary Search|
+
+## Some Thoughts
+1. 2020/03/03 Weak at Binary Search
