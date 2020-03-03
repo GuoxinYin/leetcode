@@ -16,3 +16,6 @@ This repository contains my solution to the leetcode problems form easy to hard.
 | 27 |Remove Element |[0027_Remove_Element.md](https://github.com/GuoxinYin/leetcode/blob/master/Algorithm/easy/0027_Remove_Element.md)|Array, Two pointers|
 | 28 |Implement strStr() |[0028_Implement_strStr().md](https://github.com/GuoxinYin/leetcode/blob/master/Algorithm/easy/0028_Implement_strStr().md)|String, Two pointers|
 | 35 |Search Insert Position |[0035_Search_Insert_Position.md](https://github.com/GuoxinYin/leetcode/blob/master/Algorithm/easy/0035_Search_Insert_Position.md)|Array, Binary Search|
+| 38 |Count and Say |[0038_Count_and_Say.md](https://github.com/GuoxinYin/leetcode/blob/master/Algorithm/easy/0038_Count_and_Say.md)|String|
+| 53 |Maximum Subarray |[0053_Maximum_Subarray.md](https://github.com/GuoxinYin/leetcode/blob/master/Algorithm/easy/0053_Maximum_Subarray.md)|Array, Divide and Conquer, Dynamic Programming|
+| 58 |Length of Last Word|[0058_Length_of_Last_Word.md](https://github.com/GuoxinYin/leetcode/blob/master/Algorithm/easy/0058_Length_of_Last_Word.md)|String|
