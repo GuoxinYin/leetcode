@@ -28,7 +28,10 @@ This repository contains my solution to the leetcode problems form easy to hard.
 | 100 |Same Tree|[0100_Same_Tree.md](https://github.com/GuoxinYin/leetcode/blob/master/Algorithm/easy/0100_Same_Tree.md)|Tree, Depth First Search|
 | 101 |Symmetric Tree|[0101_Symmetric_Tree.md](https://github.com/GuoxinYin/leetcode/blob/master/Algorithm/easy/0101_Symmetric_Tree.md)|Tree, Depth First Search, Breadth first Search|
 | 104 |Maximum Depth of Binary Tree|[0104_Maximum_Depth_of_Binary_Tree.md](https://github.com/GuoxinYin/leetcode/blob/master/Algorithm/easy/0104_Maximum_Depth_of_Binary_Tree.md)|Tree, Depth First Search|
-
+| 107 |Binary Tree Level Order Traversal II|[0107_Binary_Tree_Level_Order_Traversal_II.md](https://github.com/GuoxinYin/leetcode/blob/master/Algorithm/easy/0107_Binary_Tree_Level_Order_Traversal_II.md)|Tree, Breadth first Search|
+| 108 |Convert Sorted Array to Binary Search Tree|[0108_Convert_Sorted_Array_to_Binary_Search_Tree.md](https://github.com/GuoxinYin/leetcode/blob/master/Algorithm/easy/0108_Convert_Sorted_Array_to_Binary_Search_Tree.md)|Tree, Depth First Search|
+| 110 |Balanced Binary Tree|[0110_Balanced_Binary_Tree.md](https://github.com/GuoxinYin/leetcode/blob/master/Algorithm/easy/0110_Balanced_Binary_Tree.md)|Tree, Depth First Search|
 
 ## Some Thoughts
 1. 2020/03/03 Weak at Binary Search
+2. 2020/03/06 Remember to `new` a node
