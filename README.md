@@ -22,6 +22,13 @@ This repository contains my solution to the leetcode problems form easy to hard.
 | 66 |Plus One|[0066_Plus_One.md](https://github.com/GuoxinYin/leetcode/blob/master/Algorithm/easy/0066_Plus_One.md)|Array|
 | 67 |Add Binary|[0067_Add_Binary.md](https://github.com/GuoxinYin/leetcode/blob/master/Algorithm/easy/0067_Add_Binary.md)|Math, String|
 | 69 |Sqrt(x)|[0069_Sqrt(x).md](https://github.com/GuoxinYin/leetcode/blob/master/Algorithm/easy/0069_Sqrt(x).md)|Math, Binary Search|
+| 70 |Climbing Stairs|[0070_Climbing_Stairs.md](https://github.com/GuoxinYin/leetcode/blob/master/Algorithm/easy/0070_Climbing_Stairs.md)|Dynamic Programming|
+| 83 |Remove Duplicates from Sorted List|[0083_Remove_Duplicates_from_Sorted_List.md](https://github.com/GuoxinYin/leetcode/blob/master/Algorithm/easy/0083_Remove_Duplicates_from_Sorted_List.md)|Linked List|
+| 88 |Merge Sorted Array|[0088_Merge_Sorted_Array.md](https://github.com/GuoxinYin/leetcode/blob/master/Algorithm/easy/0088_Merge_Sorted_Array.md)|Array, Two pointers|
+| 100 |Same Tree|[0100_Same_Tree.md](https://github.com/GuoxinYin/leetcode/blob/master/Algorithm/easy/0100_Same_Tree.md)|Tree, Depth First Search|
+| 101 |Symmetric Tree|[0101_Symmetric_Tree.md](https://github.com/GuoxinYin/leetcode/blob/master/Algorithm/easy/0101_Symmetric_Tree.md)|Tree, Depth First Search, Breadth first Search|
+| 104 |Maximum Depth of Binary Tree|[0104_Maximum_Depth_of_Binary_Tree.md](https://github.com/GuoxinYin/leetcode/blob/master/Algorithm/easy/0104_Maximum_Depth_of_Binary_Tree.md)|Tree, Depth First Search|
+
 
 ## Some Thoughts
 1. 2020/03/03 Weak at Binary Search
