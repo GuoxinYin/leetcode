@@ -34,6 +34,9 @@ This repository contains my solution to the leetcode problems form easy to hard.
 | 111 |Minimum Depth of Binary Tree|[0111_Minimum_Depth_of_Binary_Tree.md](https://github.com/GuoxinYin/leetcode/blob/master/Algorithm/easy/0111_Minimum_Depth_of_Binary_Tree.md)|Tree, Depth First Search, Breadth first Search|
 | 112 |Path Sum|[0112_Path_Sum.md](https://github.com/GuoxinYin/leetcode/blob/master/Algorithm/easy/0112_Path_Sum.md)|Tree, Depth First Search|
 | 118 |Pascal's Triangle|[0118_Pascal's_Triangle.md](https://github.com/GuoxinYin/leetcode/blob/master/Algorithm/easy/0118_Pascal's_Triangle.md)|Array|
+| 119 |Pascal's Triangle |||[0119_Pascal's_Triangle_II.md](https://github.com/GuoxinYin/leetcode/blob/master/Algorithm/easy/0119_Pascal's_Triangle_II.md)|Array|
+| 121 |Best Time to Buy and Sell Stock|[0121_Best_Time_to_Buy_and_Sell_Stock.md](https://github.com/GuoxinYin/leetcode/blob/master/Algorithm/easy/0121_Best_Time_to_Buy_and_Sell_Stock.md)|Array, Greedy|
+| 122 |Best Time to Buy and Sell Stock || |[0122_Best_Time_to_Buy_and_Sell_Stock_II.md](https://github.com/GuoxinYin/leetcode/blob/master/Algorithm/easy/0122_Best_Time_to_Buy_and_Sell_Stock_II.md)|Array, Greedy|
 
 ## Some Thoughts
 1. 2020/03/03 Weak at Binary Search
