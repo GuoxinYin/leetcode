@@ -37,6 +37,9 @@ This repository contains my solution to the leetcode problems form easy to hard.
 | 119 |Pascal's Triangle II|[0119_Pascal's_Triangle_II.md](https://github.com/GuoxinYin/leetcode/blob/master/Algorithm/easy/0119_Pascal's_Triangle_II.md)|Array|
 | 121 |Best Time to Buy and Sell Stock|[0121_Best_Time_to_Buy_and_Sell_Stock.md](https://github.com/GuoxinYin/leetcode/blob/master/Algorithm/easy/0121_Best_Time_to_Buy_and_Sell_Stock.md)|Array, Greedy|
 | 122 |Best Time to Buy and Sell Stock II |[0122_Best_Time_to_Buy_and_Sell_Stock_II.md](https://github.com/GuoxinYin/leetcode/blob/master/Algorithm/easy/0122_Best_Time_to_Buy_and_Sell_Stock_II.md)|Array, Greedy|
+| 125 |Valid Palindrome|[0125_Valid_Palindrome.md](https://github.com/GuoxinYin/leetcode/blob/master/Algorithm/easy/0125_Valid_Palindrome.md)|Two Pointers, String|
+| 136 |Single Number|[0136_Single_Number.md](https://github.com/GuoxinYin/leetcode/blob/master/Algorithm/easy/0136_Single_Number.md)|Hash Table, Bit Manipulation|
+| 141 |Linked List Cycle|[0141_Linked_List_Cycle.md](https://github.com/GuoxinYin/leetcode/blob/master/Algorithm/easy/0141_Linked_List_Cycle.md)|Linked List, Two Pointer|
 
 ## Some Thoughts
 1. 2020/03/03 Weak at Binary Search
